@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net7.0",
+    "\\bin\\Release",
+    "\\bin\\Release\\net7.0",
+    "\\Controllers",
+    "\\Models",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net7.0"
+  ],
+  "SelectedNode": "\\Models\\Conexiones.cs",
+  "PreviewInSolutionExplorer": false
+}
